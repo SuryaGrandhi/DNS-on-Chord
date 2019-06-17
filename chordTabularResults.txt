@@ -1,0 +1,9 @@
+Number of bits : 5, Successor List : 2, Total Number of Queries : 200, Stabilization Delay : 0.100000, Fix Finger Delay : 0.100000, CheckPredecessor Delay : 0.100000, Probalility Failure  : 0.100000
+  Nodes        Java      Distalgo              Java             Distalgo             Java         Distalgo    Java Timeout    Distalgo Timeout
+            HopCount     HopCount    Average Latency     Average Latency     Lookup ratio     Lookup ratio           ratio               ratio
+-------  -----------  -----------  -----------------  ------------------  ---------------  ---------------  --------------  ------------------
+      5        1.88         1.575           0.000255          0.00660091                1            0.775               0                   0
+      6        1.885        2.14            0.00025           0.0122537                 1            0.985               0                   0
+      7        1.85         2.43            0.00025           0.00896211                1            0.99                0                   0
+      8        1.9          1.99            0.000285          0.00985097                1            0.835               0                   0
+      9        1.87         2.125           0.00022           0.00996275                1            0.785               0                   0
